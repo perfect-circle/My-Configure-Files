@@ -150,6 +150,7 @@ alias vim='nvim'
 # Created by `userpath` on 2020-10-22 03:27:06
 export PATH="$PATH:/Users/circle/.local/bin"
 export DISPLAY=:0
+export EDITOR="/usr/local/bin/nvim"
 eval "$(perl -I$HOME/perl5/lib/perl5 -Mlocal::lib=$HOME/perl5)"
 
 ra() {
