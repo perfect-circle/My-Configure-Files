@@ -28,6 +28,9 @@ Plug 'nathanaelkane/vim-indent-guides'
 Plug '/usr/local/opt/fzf'
 Plug 'junegunn/fzf.vim'
 
+" Jinja2
+Plug 'glench/vim-jinja2-syntax'
+
 call plug#end()
 
 " coc
